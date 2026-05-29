@@ -1,0 +1,6 @@
+{
+  "name": "Guru Nanak Dev Academy",
+  "description": "Premium modern website for Guru Nanak Dev Academy, Batala. Highly polished frontend featuring virtual sections for admissions, facility showcases, notice boards, and student information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
